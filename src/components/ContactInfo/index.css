@@ -1,0 +1,38 @@
+.contact-info-container{
+    width: 50%;
+    height: 80vh;
+    padding: 30px;
+}
+
+.contact-info-container h2{
+    font-size: 35px;
+    color: gray;
+}
+
+.para{
+    line-height: 1.75;
+    font-weight: 400;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
+.icons{
+    color: red;
+    font-size: 25px;
+    margin-right: 20px;
+}
+
+.numbers-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 70%;
+    margin-left: 40px;
+}
+
+.need{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
